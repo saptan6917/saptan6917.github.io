@@ -1105,4 +1105,14 @@ a.btn:focus{
 
 .centered {
   text-align: center;
+
 }
+a > img {
+     border: 2px solid #ff44a5; 
+    padding: 15px; 
+    background: #c6c6c6; 
+    margin-right: 10px; 
+    margin-bottom: 10px;
+    max-width: 280px;
+  height: 320px;
+ }
