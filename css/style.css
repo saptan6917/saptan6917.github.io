@@ -589,7 +589,8 @@ hr.bold {
 
 
 .service-box {
-	background: #fff;
+	height:540px;
+background: #fff;
 	border-bottom: 2px solid #f7f7f7;
 	padding: 40px 20px;
 }
