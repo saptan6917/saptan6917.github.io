@@ -1,3 +1,9 @@
+ body {
+    background: #ffb7d2; 
+    color: #333333; 
+   }
+
+
 a:hover,
 a:focus {
     color: #d3638e;
