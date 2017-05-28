@@ -1125,4 +1125,53 @@ height:540px;
   left:-50px;
   }
 
+.crop{
+    float:left;
+    margin:.5em 30px .5em 0;
+    overflow:hidden; /* this is important /
+    position:relative; / this is important too /
+
+    width:270px;
+    height:270px;
+    border: 2px solid #ff44a5; 
+
+    }
+.crop img{
+    position:absolute;
+    top:-40px;
+    left:-40px;
+    }
+
+    .crop14{
+    float:left;
+    margin:.5em 30px .5em 0;
+    overflow:hidden; / this is important /
+    position:relative; / this is important too /
+
+    width:232px;
+    height:270px;
+    border: 2px solid #ff44a5; 
+
+    }
+        .crop13 img{
+    position:absolute;
+    top:-40px;
+    left:-0px;
+    }
+    .crop17{
+    float:left;
+    margin:.5em 30px .5em 0;
+    overflow:hidden; / this is important /
+    position:relative; / this is important too */
+
+    width:270px;
+    height:270px;
+    border: 2px solid #ff44a5; 
+
+    }
+        .crop17 img{
+    position:absolute;
+    top:-40px;
+    left:0px;
+    }
 
