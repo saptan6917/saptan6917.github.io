@@ -596,6 +596,7 @@ background: #fff;
 }
 
 .service-box:hover {
+height:540px;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -1061,6 +1062,7 @@ a.btn:focus{
 	}
 
 	.service-box {
+height:540px;
 		margin-bottom: 50px;
 	}
 
