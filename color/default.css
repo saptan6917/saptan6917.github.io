@@ -1,80 +1,75 @@
- body {
-    background: #ffb7d2; 
-    color: #333333; 
-   }
-
-
+ body 
 a:hover,
 a:focus {
-    color: #d3638e;
+    color: #ffa8c6;
 }
 
 #navigation {
-	border-top: 5px solid #d3638e; /*#3dc9b3*/
+	border-top: 5px solid #ffa8c6; /*#3dc9b3*/
 }
 
 a,.tp-caption a.btn:hover {
-	color: #d3638e;
+	color: #ffa8c6;
 }
 .top-nav-collapse {
-	background: #d3638e;
+	background: #ffa8c6;
 }
 
 .carousel-indicators .active {
-    background-color: #d3638e;
+    background-color: #ffa8c6;
 }
 
 .header-text h2 span {
-    background-color: #d3638e;
+    background-color: #ffa8c6;
 }
 
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #d3638e;
+	color: #ffa8c6;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #d3638e;
+    background-color: #ffa8c6;
 }
 
 .widget-avatar .avatar:hover {
-    border: 5px solid #d3638e;
+    border: 5px solid #ffa8c6;
 }
 
 .bg-skin {
-	background: #d3638e;
+	background: #ffa8c6;
 }
 
 .highlight-color {
-	background-color: #d3638e;
+	background-color: #ffa8c6;
 }
 
 .service-box:hover {
-	border-bottom: 2px solid #d3638e;
+	border-bottom: 2px solid #ffa8c6;
 }
 
 
 
 form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
-	border-color: #d3638e;
+	border-color: #ffa8c6;
 }
 form.search-form input:focus {
-	border-color: #d3638e;
+	border-color: #ffa8c6;
 }
 
 /* footer */
 ul.footer-menu li a:hover {
-	color: #d3638e;
+	color: #ffa8c6;
 }
 
 footer a.totop:hover {
-	color: #d3638e;
+	color: #ffa8c6;
 }
 
 
 .btn-skin {
   color:#333333;
-  background-color: #d3638e;
-  border-color: #d3638e;
+  background-color: #ffa8c6;
+  border-color: #ffa8c6;
 }
