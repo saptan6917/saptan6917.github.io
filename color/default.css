@@ -1,10 +1,10 @@
 a:hover,
 a:focus {
-    color: #3dc9b3;
+    color: #d363a3;
 }
 
 #navigation {
-	border-top: 5px solid #3dc9b3;
+	border-top: 5px solid #d363a3; /*#3dc9b3*/
 }
 
 a,.tp-caption a.btn:hover {
