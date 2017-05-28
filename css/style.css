@@ -1174,4 +1174,8 @@ height:540px;
     top:-40px;
     left:0px;
     }
-
+a > img
+a > img {
+        max-width: 400px;
+  height: 400px;
+ }
